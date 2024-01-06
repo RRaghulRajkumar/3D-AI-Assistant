@@ -80,7 +80,7 @@ Follow these steps to experience the future of AI:
    ```bash
    git clone https://github.com/yourusername/3d-ai-assistant.git
 ```
-**Run the App 🚀
+ **Run the App** 🚀
 
 Now, let's run the app and bring your 3D AI assistant to life!
 
