@@ -1,4 +1,4 @@
-![Alt Text](url_to_your_image)
+![Alt Text](https://github.com/RRaghulRajkumar/3D-AI-Assistant/blob/main/components/ai%20avatar.png)
 
 
 
